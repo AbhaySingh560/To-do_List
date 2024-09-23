@@ -14,7 +14,7 @@ JavaScript (or React for more advanced functionality)
 
 ## Installation
 1. Clone the repository:
-git clone https://github.com/your-username/todo-list-app.git
+git clone https://github.com/AbhaySingh560/To-do_List.git
 2. Navigate to the project directory:
 cd todo-list-app
 3. Open index.html in your browser to run the app locally.
